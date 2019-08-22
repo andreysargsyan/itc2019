@@ -1,4 +1,1 @@
-
-
-
-alert("Hello andrey")
+console.log("Hello ,Jordsan")
