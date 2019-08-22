@@ -1,1 +1,2 @@
-alert(kofe)
+adjnkdjbvjh
+dfbd:wqlert(kofe)
