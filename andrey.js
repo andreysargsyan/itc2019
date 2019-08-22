@@ -1,1 +1,4 @@
-console.log("Hello andrey")
+
+
+
+alert("Hello andrey")

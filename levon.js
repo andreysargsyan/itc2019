@@ -1,1 +1,2 @@
-console.log("Hello levon")
+alert("Hello levon");
+alert("SEcond");
